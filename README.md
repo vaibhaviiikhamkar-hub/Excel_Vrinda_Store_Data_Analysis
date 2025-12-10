@@ -1,2 +1,2 @@
-# Power-bI-Amazon-sales
+# EDA PROJECT
 ### My project
